@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+# Explicitly ignore common build folders
+bin/
+obj/
+debug/
+packages/
